@@ -1,0 +1,9 @@
+- nombre: Oscar
+  altura: 1.80
+  peso: 65.0
+  edad: 30
+  habilidades:
+  - leer
+  - escribir
+  - oratoria
+  descripcion: Estudiante
